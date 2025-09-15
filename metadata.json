@@ -1,0 +1,5 @@
+{
+  "name": "Text-to-Video Creator",
+  "description": "An application that allows a user to input any text and automatically generate a complete video with synchronized visuals, voice narration, and subtitles.",
+  "requestFramePermissions": []
+}
